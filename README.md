@@ -8,34 +8,34 @@
   * Balanced Accuracy Score: 0.61
   * Precision: 0.01
   * Recall: 0.57
-  * ![NaiveRandomOversampling](Challenge/NaiveRandomOversampling.png)
+  * ![NaiveRandomOversampling](Challenge/Images/NaiveRandomOversampling.png)
 * Synthetic Minority Oversampling TechniquE (SMOTE)
   * Balanced Accuracy Score: 0.60
   * Precision: 0.01
   * Recall: 0.52
-  * ![SMOTE](Challenge/SMOTE.png)
+  * ![SMOTE](Challenge/Images/SMOTE.png)
 * Undersampling with Cluster Centroids Algorithm
   * Balanced Accuracy Score: 0.51
   * Precision: 0.00
   * Recall: 0.55
-  * ![Undersampling](Challenge/Undersampling.png)
+  * ![Undersampling](Challenge/Images/Undersampling.png)
 * Combined Sampling with SMOTE-Edited Nearest Neighbors (SMOTEENN)
   * Balanced Accuracy Score: 0.63
   * Precision: 0.01
   * Recall: 0.76
-  * ![SMOTEENN](Challenge/SMOTEENN.png)
+  * ![SMOTEENN](Challenge/Images/SMOTEENN.png)
 
 ### Ensemble Methods
 * Balanced Random Forest
   * Balanced Accuracy Score: 0.78
   * Precision: 0.04
   * Recall: 0.64
-  * ![BalancedRandomForest](Challenge/BalancedRandomForests.png)
+  * ![BalancedRandomForest](Challenge/Images/BalancedRandomForests.png)
 * AdaBoost with EasyEnsemble
   * Balanced Accuracy Score: 0.92
   * Precision: 0.08
   * Recall: 0.90
-  * ![AdaBoostEnsemble](Challenge/AdaBoostEnsemble.png)
+  * ![AdaBoostEnsemble](Challenge/Images/AdaBoostEnsemble.png)
 
 ## Summary
 
